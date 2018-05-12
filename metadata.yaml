@@ -1,0 +1,40 @@
+_repo: Dream-Blocks_41945
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Jessie Willcox
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '7158'
+    url: http://www.gutenberg.org/2009/agents/7158
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+covers:
+- cover_type: archival
+  image_path: 41945-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Higgins, Aileen Cleveland
+    aliases:
+    - Sinclair, Aileen
+    - Sinclair, John Archibald, Mrs.
+    birthdate: 1882
+    gutenberg_agent_id: '41441'
+    url: http://www.gutenberg.org/2009/agents/41441
+description: A collection of poems about childhood told from the child's point of
+  view. The subjects include building an imaginary castle, fairies, a grandfather
+  clock, new clothes, and rainy days.
+gutenberg_issued: '2013-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcc 'PZ'
+title: Dream Blocks
+url: http://www.gutenberg.org/ebooks/41945
