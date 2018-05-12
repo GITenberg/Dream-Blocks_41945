@@ -23,6 +23,8 @@ creator:
 description: A collection of poems about childhood told from the child's point of
   view. The subjects include building an imaginary castle, fairies, a grandfather
   clock, new clothes, and rainy days.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41945#Dream-Blocks
 gutenberg_issued: '2013-01-29'
 gutenberg_type: Text
 identifiers:
